@@ -1,6 +1,7 @@
 
 # Tarea n1
 #Maria Jose Auquilla Villamagua 
+#Ejercicio 1
 #primero elegimos la ubicacion de la carpeta "Saavendra2013" en nuestro computador
 #segundo, dentro de la carpeta creamos un documento en txt.
 cd Saavendra2013
