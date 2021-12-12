@@ -1,0 +1,22 @@
+#Maria@LAPTOP-CUSHFCG5 MINGW64 ~/Desktop/sexto semeste/bioinformatica/git'/bioinformaticaikiam/trabajo 1 (main)
+$ ./netsize_all_1_sh
+./netsize_all_1_sh: line 3: cd: Saavedra2013: No such file or directory
+El numero de columna es:
+7
+El numero de filas es:
+7
+El numero de columna es:
+6
+El numero de filas es:
+240
+El numero de columna es:
+
+El numero de filas es:
+0
+Fin de la ejecucion
+------------------------------------------------------
+El documento con mayor numero de filas es:netsize_all.txt
+con un total de:240
+El documento con mayor numero de columnas es:netsize.txt
+con un total de:7
+------------------------------------------------------
