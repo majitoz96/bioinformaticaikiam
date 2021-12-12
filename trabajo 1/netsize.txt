@@ -1,7 +1,7 @@
-Maria@LAPTOP-CUSHFCG5 MINGW64 ~/Desktop/sexto semeste/bioinformatica/git'/bioinformaticaikiam/trabajo 1 (main)
-$ ./netsize.sh
-El ńumero de columnas es:
+# Maria@LAPTOP-CUSHFCG5 MINGW64 ~/Desktop/sexto semeste/bioinformatica/git'/bioinformaticaikiam/trabajo 1 (main)
+ $ ./netsize.sh
+# El ńumero de columnas es:
 80
-El numero de filas es:
+#El numero de filas es:
 97 n1.txt
-Fin de la ejecucion
+#Fin de la ejecucion
