@@ -1,6 +1,7 @@
 # bioinformaticaikiam
 Repositorio de Maria Jose Auquilla Grupo 1 
  *****UNIVERSIDAD REGIONAL AMAZONICA IKIAM ****
+ 
  NOMBRE: Maria Jose Auquilla Villamagua
  GRUPO: 1 
  FECHA: 10/12/2021
@@ -28,3 +29,4 @@ La ejecución se realiza en el script <netsize_all.sh>
      ../data/Saavedra2013/n13.txt 61 17
 # EJERCICIO PARTE 3:
 ¿Qué archivo tiene el mayor número de filas? ¿Cuál tiene el mayor número de número de columnas?
+La ejecución se realiza en el script <netsize_all_1_sh>
